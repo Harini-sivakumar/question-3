@@ -1,0 +1,28 @@
+
+var products =[{
+			"name" : "PANTEEN",
+			"id" :	"101",
+			"category" : "SHAMPOO",
+			"price" : "150",
+			"description" : "HAIR AND SKIN",
+			"images" : "D:\panteen.jpeg",
+			},
+			{
+			"name" : "DETOL",
+			"id" :	"102",
+			"category" : "SANITIZING",
+			"price" : "100",
+			"description" : "CLEANING ",
+			"images" : "D:\detol.jpeg",
+			},
+			{
+			"name" : "MAGGI",
+			"id" :	"105",
+			"category" : "FOOD",
+			"price" : "15",
+			"description" : "FOOD",
+			"images" : "D:\maggi.jpeg",
+			}];
+			
+
+console.log(products);
